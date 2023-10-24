@@ -1,12 +1,12 @@
-# Data Science/Machine Learning
+# Data Science | Machine Learning
 
 #### Technical Skills: Python, R, SQL, GCP
 #### Support Skills: Git, Docker, Ubuntu, Spark
 
 ## Education
-- M.S., Statistics @ National Chengchi University (_Aug 2023_)  
-- 2nd Specialty, Computer Science @ National Chengchi University (_Aug 2023_)  
-- B.S., Mathematics @ National Taipei University of Education (_Jun 2021_)  
+- M.S., Statistics @ NCCU (_Aug 2023_)  
+- 2nd Specialty, Computer Science @ NCCU (_Aug 2023_)  
+- B.S., Mathematics @ NTUE (_Jun 2021_)  
 
 ## Work Experience
 **Data Scientist (Internship) @ The News Lens Research (_Sep 2022 - Sep 2023_)**
@@ -20,7 +20,7 @@
   - Australia Automobile Market Analysis
   - ShareParty User Behavior Analytics Reports
 
-## Projects
+## Project
 ### [Pic2Recipe: A Yolo based recipe recommender](https://github.com/Ryotess/Pic2Recipe--A_yolov8_based_recipe_recommender)  
 [Cloud Run](https://pic2recipe-tm6hnb4x7q-uc.a.run.app/) | [Streamlit](https://pic2recipe-a-yolov8-base-recipe-recommender.streamlit.app/)  
 mAP50: 0.9| mAP50-95: 0.68  
