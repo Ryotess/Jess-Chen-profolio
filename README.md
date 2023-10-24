@@ -1,11 +1,12 @@
-# Data Scientist/Machine Learning Engineer
+# Data Science/Machine Learning
 
 #### Technical Skills: Python, R, SQL, GCP
+#### Support Skills: Git, Docker, Ubuntu, Spark
 
 ## Education
-- M.S., Statistics | National Chengchi University (_Aug 2023_)
-- 2nd Specialty, Computer Science | National Chengchi University (_Ayg 2023_)
-- B.S., Mathematics | National Taipei University of Education (_Jun 2021_)
+- M.S., Statistics | National Chengchi University (_Aug 2023_)  
+- 2nd Specialty, Computer Science | National Chengchi University (_Aug 2023_)  
+- B.S., Mathematics | National Taipei University of Education (_Jun 2021_)  
 
 ## Work Experience
 **Data Scientist (Internship) @ The News Lens Research (_Sep 2022 - Sep 2023)**
