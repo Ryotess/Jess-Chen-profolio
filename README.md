@@ -1,4 +1,4 @@
-# Data Scientist | Machine Learning Engineer
+# Data Scientist/Machine Learning Engineer
 
 ### Education
 Statistics, Master @ NCCU  
@@ -18,3 +18,6 @@ Solar Panel Dust Detection
 Spotify Popularity Prediction
 Stroke Prediction By Deep Learning
 Google Play Store Analysis By EDA and CDA
+
+### Links
+[![Linkedln](linkedin)](https://www.linkedin.com/in/shaoyanchen/)
