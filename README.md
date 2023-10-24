@@ -4,12 +4,12 @@
 #### Support Skills: Git, Docker, Ubuntu, Spark
 
 ## Education
-- M.S., Statistics | National Chengchi University (_Aug 2023_)  
-- 2nd Specialty, Computer Science | National Chengchi University (_Aug 2023_)  
-- B.S., Mathematics | National Taipei University of Education (_Jun 2021_)  
+- M.S., Statistics @ National Chengchi University (_Aug 2023_)  
+- 2nd Specialty, Computer Science @ National Chengchi University (_Aug 2023_)  
+- B.S., Mathematics @ National Taipei University of Education (_Jun 2021_)  
 
 ## Work Experience
-**Data Scientist (Internship) @ The News Lens Research (_Sep 2022 - Sep 2023)**
+**Data Scientist (Internship) @ The News Lens Research (_Sep 2022 - Sep 2023_)**
 - Developed automated analytic processes that reduce the time required from approximately 3 to 4 days to less than 30 minutes.
 - Created user behavior data dashboards using Looker Studio and BigQuery, simplifying data visualization and enhancing accessibility.
 - Led collaborations that significantly doubled company revenue within a year.
